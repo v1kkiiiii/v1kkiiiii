@@ -75,20 +75,6 @@ Converts freehand strokes into closed-form equations using least-squares polynom
 </tr>
 </table>
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=v1kkiiiii&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1kkiiiii&layout=compact&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=v1kkiiiii&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 

@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**v1kkiiiii/v1kkiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Victoria
 
-Here are some ideas to get you started:
+### Statistics & Machine Learning @ Carnegie Mellon University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build ML systems, quant models, and full-stack products — and I like when the numbers behind them actually hold up.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoriaz2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoriz@andrew.cmu.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v1kkiiiii)
+
+</div>
+
+---
+
+### What I'm up to
+
+Right now I'm splitting time between finance and startups. During the day I'm interning on Wells Fargo's Middle Markets credit team, where a lot of my work has been figuring out where AI can actually save underwriters time without cutting corners on risk. On the side, I'm the GTM engineer at Veria Labs, a YC-backed startup, where I get to write the same kind of automation logic I'd normally only see on the receiving end of a sales pipeline.
+
+I'm also building OUTFT. with a co-founder — a social fashion app where the fun technical problem is teaching a model to actually understand someone's style from a photo. Outside of work, I direct CMU's contemporary dance company, which has taught me more about running a team under a deadline than most of my internships have.
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+</div>
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[ML Portfolio Optimization](https://github.com/v1kkiiiii/ml-portfolio-optimization)**
+`Python` `scikit-learn` `SciPy`
+
+End-to-end pipeline combining gradient-boosted return forecasting with mean-variance optimization — **1.59 Sharpe ratio** vs. 0.94 equal-weight benchmark. Walk-forward training, Ledoit-Wolf shrinkage, constrained optimization (SciPy SLSQP), and a full backtest engine with transaction cost modeling.
+
+</td>
+<td width="50%" valign="top">
+
+**sketch·eq**
+`Python` `NumPy` `PyQt5` `Flask` `JavaScript`
+
+Converts freehand strokes into closed-form equations using least-squares polynomial regression with automatic degree selection and Kasa circle fitting. Shipped as both a desktop app and a web app sharing one unit-tested math core.
+
+</td>
+</tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=v1kkiiiii&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1kkiiiii&layout=compact&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=v1kkiiiii&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Currently exploring the intersection of quantitative finance, applied ML, and product — always down to talk about either.*
+
+</div>

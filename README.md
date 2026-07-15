@@ -78,6 +78,6 @@ Converts freehand strokes into closed-form equations using least-squares polynom
 
 <div align="center">
 
-*Currently exploring the intersection of quantitative finance, applied ML, and product — always down to talk about either.*
+*Currently exploring the intersection of quantitative finance, applied ML, and product. Always happy to talk about either! Also fascinated by the concept of fully autonmous AI and it's philosophical implications or possible foundations :)*
 
 </div>

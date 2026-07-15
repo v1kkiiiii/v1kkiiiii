@@ -4,8 +4,6 @@
 
 ### Statistics & Machine Learning @ Carnegie Mellon University
 
-I build ML systems, quant models, and full-stack products — and I like when the numbers behind them actually hold up.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoriaz2)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoriz@andrew.cmu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v1kkiiiii)

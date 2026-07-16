@@ -14,9 +14,9 @@
 
 ### What I'm up to
 
-Right now I'm splitting time between finance and startups. During the day I'm interning on Wells Fargo's Middle Markets credit team, where a lot of my work has been figuring out where AI can actually save underwriters time without cutting corners on risk. On the side, I'm the GTM engineer at Veria Labs, a YC-backed startup, where I get to write the same kind of automation logic I'd normally only see on the receiving end of a sales pipeline.
+Right now I'm splitting time between finance and startups. During the day, I'm interning at Wells Fargo in Commercial Banking, where I've been doing credit underwriting while simultaneously figuring out where AI can actually save underwriters time without cutting corners on risk. I'm also building OUTFT. with a co-founder — a social fashion app where the fun technical problem is teaching a model to actually understand someone's style from a photo. 
 
-I'm also building OUTFT. with a co-founder — a social fashion app where the fun technical problem is teaching a model to actually understand someone's style from a photo. Outside of work, I direct CMU's contemporary dance company, which has taught me more about running a team under a deadline than most of my internships have.
+Outside of that I've been hiking all the national parks, traveling the world (currently at 23 countries traveled), and trying to hit 15k in Clash Royale, while still keeping up with my passion for dance.
 
 ---
 

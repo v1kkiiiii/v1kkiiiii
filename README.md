@@ -18,6 +18,8 @@ Right now I'm splitting time between finance and startups. During the day, I'm i
 
 Outside of that I've been hiking all the national parks, traveling the world (currently at 23 countries traveled), and trying to hit 15k in Clash Royale, while still keeping up with my passion for dance.
 
+CURRENT PROJECT: Sports betting prediction model 
+
 ---
 
 ### Tech Stack

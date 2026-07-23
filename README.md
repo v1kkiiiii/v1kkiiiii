@@ -14,9 +14,9 @@
 
 ### What I'm up to
 
-Right now I'm splitting time between finance and startups. During the day, I'm interning at Wells Fargo in Commercial Banking, where I've been doing credit underwriting while simultaneously figuring out where AI can actually save underwriters time without cutting corners on risk. I'm also building OUTFT. with a co-founder — a social fashion app where the fun technical problem is teaching a model to actually understand someone's style from a photo (check it out @ https://www.outft.app/). And when I have any other free time, I'm designing evaluation tasks for Handshake AI's Terminal-Bench 2, building out benchmarks like a mixed-type credit-risk segmentation task that tests whether AI coding agents can actually recover real signal from noisy data instead of taking shortcuts.
+Right now I'm splitting time between finance and startups. During the day, I'm interning at Wells Fargo in Commercial Banking, where I've been doing credit underwriting while simultaneously figuring out where AI can actually save underwriters time without cutting corners on risk. Along with my co-founder, I'm also building OUTFT.: a social fashion app where the fun technical problem is teaching a model to actually understand someone's style from a photo (check it out @ https://www.outft.app/). And when I have any other free time, I'm designing evaluation tasks for Handshake AI's Terminal-Bench 2, building out benchmarks like a mixed-type credit-risk segmentation task that tests whether AI coding agents can actually recover real signal from noisy data instead of taking shortcuts.
 
-Outside of that I've been hiking all the national parks, traveling the world (currently at 23 countries traveled), playing poker and TFT, and stacking fat bands on Kalshi, while still keeping up with my passion for dance.
+Outside of that I've been hiking all the national parks, traveling the world (currently at 23 countries traveled), playing poker and TFT, and live sports-betting (GO COMMANDERS), while still keeping up with my passion for dance.
 
 CURRENT PROJECT: Clash Royale Deck vs. Deck Win Predictor
 
